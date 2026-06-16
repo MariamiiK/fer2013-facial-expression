@@ -11,7 +11,7 @@
 
 
 **WandB პროექტი:** https://wandb.ai/mkakh22-free-university-of-tbilisi-/fer2013-experiments?nw=nwusermkakh22
-
+**რეპორტის ლინკი:** https://wandb.ai/mkakh22-free-university-of-tbilisi-/fer2013-experiments/reports/WandB-Report-FER2013-Facial-Expression-Recognition--VmlldzoxNzI0MzM4Mw
 ---
 
 ## ექსპერიმენტი 1: Underfitting TinyMLP-ის გამოყენებით
